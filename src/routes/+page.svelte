@@ -55,6 +55,9 @@
 			<option value="bar">Bar</option>
 			<option value="line">Line</option>
 			<option value="pie">Pie</option>
+			<option value="radar">Radar</option>
+			<option value="polarArea">Polar Area</option>
+			<option value="radialGauge">Radial Gauge</option>
 		</select>
 
 		<div class="space-y-2">
